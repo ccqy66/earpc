@@ -1,0 +1,17 @@
+.idea
+.DS_Store
+*.iml
+*.ipr
+*.iws
+.git/
+*/tree.txt
+logs
+target
+.settings
+.classpath
+.project
+*/target
+tree.txt
+~
+
+src/main/java/com/meituan/service/mobile/group/resource/passbook/RPass.java
