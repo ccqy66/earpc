@@ -1,7 +1,6 @@
 ### How to Use
-  - Server:
-    - interface:
-    
+#### Server:
+  - interface:
     ```java
     /**
      * @author: chenchen_839@126.com
@@ -46,8 +45,9 @@
             <bean id="helloWorld" class="com.wolfcoder.earpc.configserver.HelloServiceImpl"/>
         </beans>
     ```
-  - client
-    - spring config:
+#### client
+
+  - spring config:
     ```xml
     <?xml version="1.0" encoding="UTF-8"?>
     <beans xmlns="http://www.springframework.org/schema/beans"
